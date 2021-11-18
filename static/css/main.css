@@ -1,0 +1,13 @@
+
+.header{
+  height: auto;
+  width: 10%;
+  align-items: relative;
+  left: 200%;
+  margin-left: 46%;
+}
+.container-fluid{
+  display:flex;
+  flex-wrap: wrap;
+
+}
